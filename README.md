@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bbqrob
 - 👀 I’m interested in new technolgies.
-- 🕸️ Where my website is: https://heine.xyz
-- 🐘 How to reach me: 👉 Mastodon: <a rel="me" href="https://m.heine.xyz/@rob">(at) rob (at) m.heine.xyz</a>
-- ⛰️ Where my code is 👉 Codeberg: https://codeberg.org/bbqrob
+- 🕸️ Where my website is: 👉 https://heine.xyz
+- 🐘 How to reach me: 👉 Mastodon: https://m.heine.xyz/@rob
+- ⛰️ Where my code is: 👉 Codeberg: https://codeberg.org/bbqrob
 
 <!---
 bbqrob/bbqrob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
